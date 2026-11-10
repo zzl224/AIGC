@@ -2,6 +2,13 @@
 
 用于无限画布的灵感检索与提示词参考。
 
+## 无限画布项目资料
+
+- [云端资料库入口](library/infinite-canvas/README.md)
+- [完整资料索引](library/infinite-canvas/INDEX.md)
+
+包含项目文档、配置指南、5 张人物参考图和 Seedance 测试视频。资料为手动归档快照，未启用画布自动云同步。
+
 ## 黑胡子灵感创意
 
 - [使用说明](knowledge/heihuzi-inspire/README.md)

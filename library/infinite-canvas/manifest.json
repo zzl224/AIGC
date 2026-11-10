@@ -1,0 +1,338 @@
+[
+  {
+    "path": "library/infinite-canvas/docs/business/business.mdx",
+    "source": "business.mdx",
+    "bytes": 782,
+    "sha256": "12589c987d36eb4f1cef95c1e0a1bc948378299ee7ab7483e1f3d784a199e5a6"
+  },
+  {
+    "path": "library/infinite-canvas/docs/business/business.zh-CN.mdx",
+    "source": "business.zh-CN.mdx",
+    "bytes": 1189,
+    "sha256": "742f0a44a82edc0d7113bc864b43deb29043d4e31a5f4b39981fc443f4a38106"
+  },
+  {
+    "path": "library/infinite-canvas/docs/business/license.mdx",
+    "source": "license.mdx",
+    "bytes": 770,
+    "sha256": "6b22f5bcbfac57e7fa13da59865c66cfcafe1629e80562f0d7337309b81e74e5"
+  },
+  {
+    "path": "library/infinite-canvas/docs/business/license.zh-CN.mdx",
+    "source": "license.zh-CN.mdx",
+    "bytes": 1001,
+    "sha256": "e52082b2e7e0fbb64120c91ace0befadf89483b7f6e696099defed3ae2beacd4"
+  },
+  {
+    "path": "library/infinite-canvas/docs/canvas/canvas-node-manual.mdx",
+    "source": "canvas-node-manual.mdx",
+    "bytes": 4393,
+    "sha256": "d9a34e810a7079fca19cd1a55ad72f7c06319d64b23a95993f79f8c45bece10d"
+  },
+  {
+    "path": "library/infinite-canvas/docs/canvas/canvas-node-manual.zh-CN.mdx",
+    "source": "canvas-node-manual.zh-CN.mdx",
+    "bytes": 6317,
+    "sha256": "e204bb77051a5023feee38c69b5c6be20323b3bc74ceaa157e3d457676e866ea"
+  },
+  {
+    "path": "library/infinite-canvas/docs/canvas/canvas-shortcuts.mdx",
+    "source": "canvas-shortcuts.mdx",
+    "bytes": 1135,
+    "sha256": "9b8bf59838e5feba9e3ab8c7853ab96902980ddcf14ccf6f10ab546533f8180d"
+  },
+  {
+    "path": "library/infinite-canvas/docs/canvas/canvas-shortcuts.zh-CN.mdx",
+    "source": "canvas-shortcuts.zh-CN.mdx",
+    "bytes": 1385,
+    "sha256": "1054f61f63087bcb0611d295f50ff4091c29a37deb3c261bd82fa742f800e2c5"
+  },
+  {
+    "path": "library/infinite-canvas/docs/development/canvas-data-structure.mdx",
+    "source": "canvas-data-structure.mdx",
+    "bytes": 3409,
+    "sha256": "389c3d48f41645105fd4a1402682330417bd6ddd352870f974a0d2cc0ef72514"
+  },
+  {
+    "path": "library/infinite-canvas/docs/development/canvas-data-structure.zh-CN.mdx",
+    "source": "canvas-data-structure.zh-CN.mdx",
+    "bytes": 8433,
+    "sha256": "9ec35e8821780a9c3ef330881187e32b958acd6d38d7b85edcf47e18bb6ced0f"
+  },
+  {
+    "path": "library/infinite-canvas/docs/development/local-codex-canvas.mdx",
+    "source": "local-codex-canvas.mdx",
+    "bytes": 2686,
+    "sha256": "6318a4f8410e36854f57315e059c7055151c9982c183ac24910bcfade547c004"
+  },
+  {
+    "path": "library/infinite-canvas/docs/development/local-codex-canvas.zh-CN.mdx",
+    "source": "local-codex-canvas.zh-CN.mdx",
+    "bytes": 5762,
+    "sha256": "69f704d99641d5aa9d79814c56678f799b9c4edc617c5ac02ba9b8612d694ecf"
+  },
+  {
+    "path": "library/infinite-canvas/docs/development/local-development.mdx",
+    "source": "local-development.mdx",
+    "bytes": 712,
+    "sha256": "f9bfa57f63daa76541bb1fb29f6053cd8bf06d87043932d1557f3cf72c4e7e51"
+  },
+  {
+    "path": "library/infinite-canvas/docs/development/local-development.zh-CN.mdx",
+    "source": "local-development.zh-CN.mdx",
+    "bytes": 832,
+    "sha256": "265a57e3b35f3e318442cfd5c151a35be86492151dcf7a228ad9e10fc73469a4"
+  },
+  {
+    "path": "library/infinite-canvas/docs/overview/codex-app-plugin.mdx",
+    "source": "codex-app-plugin.mdx",
+    "bytes": 2122,
+    "sha256": "4ba279a7dfdd8a51f66b64191e86c59e45fb7b980b31be12bad69ef5d81312a5"
+  },
+  {
+    "path": "library/infinite-canvas/docs/overview/codex-app-plugin.zh-CN.mdx",
+    "source": "codex-app-plugin.zh-CN.mdx",
+    "bytes": 4298,
+    "sha256": "c650176c8033dd325e608c2efd9fe54a4afe6e6a1920416829433aac9b924e3f"
+  },
+  {
+    "path": "library/infinite-canvas/docs/overview/docker.mdx",
+    "source": "docker.mdx",
+    "bytes": 1669,
+    "sha256": "2e4cc4b73d28b9cdb21ca2777ca0c7a35fb4fac5061399e1ef9ade2ef73d1d44"
+  },
+  {
+    "path": "library/infinite-canvas/docs/overview/docker.zh-CN.mdx",
+    "source": "docker.zh-CN.mdx",
+    "bytes": 2799,
+    "sha256": "c535a2cc76d73863126d1caaba5bc1486f56856b30b65702b75f544942a1f359"
+  },
+  {
+    "path": "library/infinite-canvas/docs/overview/features.mdx",
+    "source": "features.mdx",
+    "bytes": 3389,
+    "sha256": "9514b97bbd56fdc3ad7bf16909502025cf34551aa968eb4b6bffc3c67387d820"
+  },
+  {
+    "path": "library/infinite-canvas/docs/overview/features.zh-CN.mdx",
+    "source": "features.zh-CN.mdx",
+    "bytes": 7448,
+    "sha256": "66ace65d67a8b4080dfebde3b9876470370851d3a90262b256382693c0a44567"
+  },
+  {
+    "path": "library/infinite-canvas/docs/overview/quick-start.mdx",
+    "source": "quick-start.mdx",
+    "bytes": 1161,
+    "sha256": "1fbcb8e0076bb58882de23925d8463cbf5ce2e368e2902ebb9a15b6aac0bf9d1"
+  },
+  {
+    "path": "library/infinite-canvas/docs/overview/quick-start.zh-CN.mdx",
+    "source": "quick-start.zh-CN.mdx",
+    "bytes": 1340,
+    "sha256": "632301c21e3e65ae7b3f1702a2c30459bcf60982ca0f0088869557f6e2043519"
+  },
+  {
+    "path": "library/infinite-canvas/docs/overview/render.mdx",
+    "source": "render.mdx",
+    "bytes": 725,
+    "sha256": "243d908fba4f41c24ff36b412d8a002d796a2a505a335d60532da5f4ba2a6992"
+  },
+  {
+    "path": "library/infinite-canvas/docs/overview/render.zh-CN.mdx",
+    "source": "render.zh-CN.mdx",
+    "bytes": 867,
+    "sha256": "3f642bc7765a5b6c91bf08d6ff47c49f79288bebd7e36c12a988060938bc222d"
+  },
+  {
+    "path": "library/infinite-canvas/docs/overview/third-party-prompt-repositories.mdx",
+    "source": "third-party-prompt-repositories.mdx",
+    "bytes": 1230,
+    "sha256": "ef482c08b26e54627bde77ed2b621de95e962bbd82b4cd1f2282b9af126dab76"
+  },
+  {
+    "path": "library/infinite-canvas/docs/overview/third-party-prompt-repositories.zh-CN.mdx",
+    "source": "third-party-prompt-repositories.zh-CN.mdx",
+    "bytes": 1135,
+    "sha256": "4ccd0fe51985ba5da5ee8130519cad8fb9419d72533933893d671aef5993cd1a"
+  },
+  {
+    "path": "library/infinite-canvas/docs/progress/local-agent-integration-plan.mdx",
+    "source": "local-agent-integration-plan.mdx",
+    "bytes": 2354,
+    "sha256": "9041a1312d2d0fa4bb0a5f7a9e082ce33216b888d90a0684aead3d9781edeab8"
+  },
+  {
+    "path": "library/infinite-canvas/docs/progress/local-agent-integration-plan.zh-CN.mdx",
+    "source": "local-agent-integration-plan.zh-CN.mdx",
+    "bytes": 9673,
+    "sha256": "20734d67f36166d8c87d8753b0574463232bafe78ad379c241c47c0d67d44847"
+  },
+  {
+    "path": "library/infinite-canvas/docs/progress/pending-test.mdx",
+    "source": "pending-test.mdx",
+    "bytes": 26010,
+    "sha256": "5797826f17ddbe75101aba517eda63fda657f37fbd4f30a01002291f9e8ed4ec"
+  },
+  {
+    "path": "library/infinite-canvas/docs/progress/pending-test.zh-CN.mdx",
+    "source": "pending-test.zh-CN.mdx",
+    "bytes": 44074,
+    "sha256": "ed3fa6aeaf9918fe6232ac5dad9755cac83b4a4d5b582e9f2d55718c1496ae75"
+  },
+  {
+    "path": "library/infinite-canvas/docs/progress/prompt-chip-input-plan.mdx",
+    "source": "prompt-chip-input-plan.mdx",
+    "bytes": 1510,
+    "sha256": "df24c7ddced1c6d79348f0ad2ca1b6dbb67f19f57a2006ed4fe915e6257c0756"
+  },
+  {
+    "path": "library/infinite-canvas/docs/progress/prompt-chip-input-plan.zh-CN.mdx",
+    "source": "prompt-chip-input-plan.zh-CN.mdx",
+    "bytes": 5866,
+    "sha256": "92762d6e5d017b0060bc13032ab8ce1a9286b6ef29acb7dfdc588e5eb33441c7"
+  },
+  {
+    "path": "library/infinite-canvas/docs/progress/todo.mdx",
+    "source": "todo.mdx",
+    "bytes": 378,
+    "sha256": "77b03ea87fafa70a572aef3240250253f5c39fbff3afd4d6d87308a5fc063493"
+  },
+  {
+    "path": "library/infinite-canvas/docs/progress/todo.zh-CN.mdx",
+    "source": "todo.zh-CN.mdx",
+    "bytes": 479,
+    "sha256": "a402548437642b10c5a700a0ae297c541ffc779a122addc053854f0d52e178fc"
+  },
+  {
+    "path": "library/infinite-canvas/docs/support/security.mdx",
+    "source": "security.mdx",
+    "bytes": 1117,
+    "sha256": "e10c36a0a4efd54b7c8582838ca0581c732cbe638ffb79bec11005a5d203d8f9"
+  },
+  {
+    "path": "library/infinite-canvas/docs/support/security.zh-CN.mdx",
+    "source": "security.zh-CN.mdx",
+    "bytes": 1500,
+    "sha256": "50bd2b88dbd78b0373a83b01a7d0c058366005f2fec419cff1eb5a33be46f96a"
+  },
+  {
+    "path": "library/infinite-canvas/docs/support/sponsor.mdx",
+    "source": "sponsor.mdx",
+    "bytes": 845,
+    "sha256": "971773bf7caad340199ba5403a1b821b13c4f95eeec388c2012126ecb2e694a0"
+  },
+  {
+    "path": "library/infinite-canvas/docs/support/sponsor.zh-CN.mdx",
+    "source": "sponsor.zh-CN.mdx",
+    "bytes": 1615,
+    "sha256": "1dd88a267f282c021af639d510c435b97bd798cf30768f5adc3eda1ba31e461b"
+  },
+  {
+    "path": "library/infinite-canvas/project/README.md",
+    "source": "README.md",
+    "bytes": 14004,
+    "sha256": "883a3faebd59b93ebaee0e58c798088659240db178c7cbcac8be2503391306a5"
+  },
+  {
+    "path": "library/infinite-canvas/project/LICENSE",
+    "source": "LICENSE",
+    "bytes": 1067,
+    "sha256": "4a3ea42531a7fc18b11471baa1676b11ef6c8badee4e02711392d9fdc8f59d58"
+  },
+  {
+    "path": "library/infinite-canvas/project/CHANGELOG.md",
+    "source": "CHANGELOG.md",
+    "bytes": 28857,
+    "sha256": "9bfcb8f809dd0902541123cfa340ac353c77d87af9cd1d55edb001c773c10acc"
+  },
+  {
+    "path": "library/infinite-canvas/project/VERSION",
+    "source": "VERSION",
+    "bytes": 7,
+    "sha256": "f8385526da05bdcc76869d8c973d0903aa37865660439f9dd95d9dfc95e48c96"
+  },
+  {
+    "path": "library/infinite-canvas/project/DOCUMENTATION-INDEX.md",
+    "source": "index.md",
+    "bytes": 1318,
+    "sha256": "bc8dcaa27bde571e93a994d4a0ffb4a0d2ad919065bac448bd290dd780846645"
+  },
+  {
+    "path": "library/infinite-canvas/guides/Docker安装和启动指南.md",
+    "source": "Docker安装和启动指南.md",
+    "bytes": 5793,
+    "sha256": "6dcc56465976a53f0b3e78e6848dd54d8708da681fe0d58a83dbc84f75c9eb88"
+  },
+  {
+    "path": "library/infinite-canvas/guides/GPT-Image-2.5-配置指南.md",
+    "source": "GPT-Image-2.5-配置指南.md",
+    "bytes": 5358,
+    "sha256": "b1e40676451ccb8f55e4dee7fee8a702fa32e044d87c1260e726c3ad3fac893b"
+  },
+  {
+    "path": "library/infinite-canvas/guides/infinite-canvas-启动说明.md",
+    "source": "infinite-canvas-启动说明.md",
+    "bytes": 4427,
+    "sha256": "836a56b45e2e96f3b717b2476cc4c6915de6664f825e86a48cd3357c98bb3afa"
+  },
+  {
+    "path": "library/infinite-canvas/guides/infinite-canvas-setup-guide.md",
+    "source": "infinite-canvas-setup-guide.md",
+    "bytes": 3195,
+    "sha256": "ff697cef9b92e2bfb5c7a41df6b11856a6d1f226de24d7ef383cb1bb872eff18"
+  },
+  {
+    "path": "library/infinite-canvas/guides/MiniMax-H3-调用脚本.js",
+    "source": "MiniMax-H3-调用脚本.js",
+    "bytes": 2362,
+    "sha256": "1a012a6a73b7f6af840cb41810a0f1329ae6b982bcdc1398dc2479ecc81bb112"
+  },
+  {
+    "path": "library/infinite-canvas/guides/MiniMax-H3-Max-调用脚本.js",
+    "source": "MiniMax-H3-Max-调用脚本.js",
+    "bytes": 2368,
+    "sha256": "07e4d7e395c0da7e0fc2c4183e05b975878d1c6b594367396a2229f7a1849b12"
+  },
+  {
+    "path": "library/infinite-canvas/references/characters/ff904c26-3e8c-4e6c-a5c6-c18dba35fb3e.png",
+    "source": "ff904c26-3e8c-4e6c-a5c6-c18dba35fb3e.png",
+    "bytes": 2791315,
+    "sha256": "2cf0eb6c1ffbec21ad50f21814c952faadf530ec68c9037461e2dda24533aee2"
+  },
+  {
+    "path": "library/infinite-canvas/references/characters/162679a9-ddfa-4b98-a1aa-81711665efec.png",
+    "source": "162679a9-ddfa-4b98-a1aa-81711665efec.png",
+    "bytes": 3406100,
+    "sha256": "66ce7feb6814ad0e62f7bc624195812eb0f72cbcda3a54c53aafce0763992e77"
+  },
+  {
+    "path": "library/infinite-canvas/references/characters/110614f5-7cf0-458b-aaca-2122204d7d82.png",
+    "source": "110614f5-7cf0-458b-aaca-2122204d7d82.png",
+    "bytes": 3456331,
+    "sha256": "5e76572928113fd6bd5a4c84ab652424049075822bfa849123b7584254813f39"
+  },
+  {
+    "path": "library/infinite-canvas/references/characters/f28d2803-450d-454d-9b76-55671db553cd.png",
+    "source": "f28d2803-450d-454d-9b76-55671db553cd.png",
+    "bytes": 3573170,
+    "sha256": "3cb03b45db81ac5d015675d8661f7010826e36e7c0012343223ece52ba6a70b4"
+  },
+  {
+    "path": "library/infinite-canvas/references/characters/60d50370-a126-4806-9a54-81075039c336.png",
+    "source": "60d50370-a126-4806-9a54-81075039c336.png",
+    "bytes": 3496815,
+    "sha256": "8f7c04a3ab08a5a544e3c8f266955be3b4549ae292be9c3a830e22705414eb78"
+  },
+  {
+    "path": "library/infinite-canvas/examples/seedance/tiger-4s-480p.mp4",
+    "source": "tiger-4s-480p.mp4",
+    "bytes": 814756,
+    "sha256": "1bb88da5feadfcd24052854d9f62c1b84e991493cf3e44b189112c04b763ebe5"
+  },
+  {
+    "path": "library/infinite-canvas/examples/seedance/tiger-first-frame.png",
+    "source": "tiger-first-frame.png",
+    "bytes": 1079116,
+    "sha256": "72a93a9086c3077b3327690df3a55647a23f90ddf48e0fb07cdf14315ea53b9e"
+  }
+]
